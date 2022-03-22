@@ -1,8 +1,7 @@
-Easy Install BNB Chain Node / BSC Node
-
+Install Binance Node Private
 UBUNTU 20.04
 
-just copy paste the command below
+just copy paste the command 
 
 ```bash
 git clone https://github.com/alenusa04/aleynode.git && cd aleynode && chmod +x install.sh && ./install.sh
