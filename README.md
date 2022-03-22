@@ -5,7 +5,7 @@ UBUNTU 20.04
 just copy paste the command below
 
 ```bash
-git clone https://github.com/alenusa04/aleynode.git && cd Deploy-BSC-Node-Easily && chmod +x install.sh && ./install.sh
+git clone https://github.com/alenusa04/aleynode.git && cd aleynode && chmod +x install.sh && ./install.sh
 ```
 
 if its success 
